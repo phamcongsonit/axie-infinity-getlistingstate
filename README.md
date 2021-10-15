@@ -1,4 +1,5 @@
-Axie Infinity Get Listing State
+# Axie Infinity Get Listing State
+
 I found out how to get listing state in chain
 
 Please watch it: 
